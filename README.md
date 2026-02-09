@@ -33,7 +33,7 @@ Identification of high-risk loan categories
 Interactive slicers for loan status, purpose, and year
 
 🖼 Dashboard Snapshot
--<a href=""> -dashboard preview </a>
+-<a href="https://github.com/hemagitofficial/dataanalyst/blob/main/excel%20loan%20analysis.PNG"> -dashboard preview </a>
 
 📌 Key Insights
 Higher default rates observed in specific loan grades
