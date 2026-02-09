@@ -17,9 +17,6 @@ Loan details (loan amount, interest rate, tenure)
 Loan status (approved, rejected, fully paid, defaulted)
 Purpose and grade of loans
 
-📁 Dataset Used
--<a href=""> -dataset </a>
-
 📌 The dataset was cleaned and structured in Excel to ensure accuracy and consistency before dashboard creation.
 
 🔄 Data Preparation
